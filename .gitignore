@@ -17,7 +17,7 @@ venv/
 .vscode/
 
 # Admin
-.admin/
+admin/
 
 # Logs
 *.log
