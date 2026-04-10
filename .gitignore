@@ -1,5 +1,5 @@
 # Sensitive credentials
-charged-sector-283120-2e2e126eaf3d.json
+service_account.json
 *.env
 
 # Python

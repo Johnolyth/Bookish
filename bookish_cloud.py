@@ -17,7 +17,7 @@ scope = ["https://www.googleapis.com/auth/spreadsheets",
          "https://www.googleapis.com/auth/drive"
          ]
 creds = Credentials.from_service_account_file(
-    "charged-sector-283120-2e2e126eaf3d.json",
+    "service_account.json",
     scopes=scope)
 
 gc = gspread.authorize(creds)
